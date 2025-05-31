@@ -48,4 +48,4 @@ The app will open at http://localhost:5173
 
 
  ## API Used
-**[CoinGecko API](https://www.coingecko.com/en/api)** – used to fetch live and accurate cryptocurrency data without requiring an API key.
+**[CoinGecko API](https://www.coingecko.com/en/api)** – used to fetch live and accurate cryptocurrency data.
