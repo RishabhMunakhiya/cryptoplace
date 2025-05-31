@@ -1,12 +1,56 @@
-# React + Vite
+🪙 Crypto Price Tracker
+A simple and responsive Crypto Price Tracking Website built using React JS. You can search any cryptocurrency and explore its real-time data, including current price, 24hr change, market cap, rank, and high/low values. You can also view prices in USD, EUR, and INR.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔍 Features
+🔎 Search any cryptocurrency (like Bitcoin, Ethereum, etc.)
 
-Currently, two official plugins are available:
+📈 Live market data:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Current Price
 
-## Expanding the ESLint configuration
+24hr Change
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Market Cap
+
+Market Rank
+
+24hr High and Low
+
+🌐 View prices in USD, EUR, and INR
+
+📱 Fully responsive and mobile-friendly
+
+🧰 Tech Stack
+React JS
+
+CSS / Tailwind (if used)
+
+Axios (for API requests)
+
+CoinGecko API (for real-time crypto data)
+
+🚀 Getting Started
+Clone the repo
+bash
+Copy
+Edit
+git clone https://github.com/RishabhMunakhiya/cryptoplace.git
+cd cryptoplace
+Install dependencies
+bash
+Copy
+Edit
+npm install
+Run the project
+bash
+Copy
+Edit
+npm start
+It will open the app at http://localhost:3000
+
+📸 Screenshots
+![image](https://github.com/user-attachments/assets/46e70775-2714-453f-b051-2ca0406c3e20)
+
+
+📡 API Used
+CoinGecko API
